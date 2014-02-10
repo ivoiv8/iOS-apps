@@ -1,0 +1,39 @@
+
+/* Class = "IBUITableViewController"; title = "List"; ObjectID = "12"; */
+"12.title" = "清单";
+
+/* Class = "IBUINavigationItem"; title = "Little Secrets"; ObjectID = "36"; */
+"36.title" = "小秘密";
+
+/* Class = "IBUIButton"; normalTitle = "Edit"; ObjectID = "0sl-3d-lFX"; */
+"0sl-3d-lFX.normalTitle" = "编辑";
+
+/* Class = "IBUITextField"; placeholder = "Enter Title Here"; ObjectID = "2HN-ut-TlL"; */
+"2HN-ut-TlL.placeholder" = "在此处输入标题";
+
+/* Class = "IBUITextField"; text = "12-September-2013"; ObjectID = "ARh-JM-zfw"; */
+"ARh-JM-zfw.text" = "12-September-2013";
+
+/* Class = "IBUITextField"; placeholder = "Category: Passwords, Bank, Ideas"; ObjectID = "CAL-6f-5l7"; */
+"CAL-6f-5l7.placeholder" = "类别：密码，银行，想法...";
+
+/* Class = "IBUITextField"; placeholder = "Title: Apple ID, Visa, Jim"; ObjectID = "FNt-8M-1Ma"; */
+"FNt-8M-1Ma.placeholder" = "标题：Apple ID，签证，李某...";
+
+/* Class = "IBUITextField"; text = "12-September-2013"; ObjectID = "Icd-KI-StY"; */
+"Icd-KI-StY.text" = "12-September-2013";
+
+/* Class = "IBUINavigationItem"; title = "New Secret"; ObjectID = "KgV-Tt-diq"; */
+"KgV-Tt-diq.title" = "新秘密";
+
+/* Class = "IBUILabel"; text = "Created on:"; ObjectID = "L66-XB-cm2"; */
+"L66-XB-cm2.text" = "创建于：";
+
+/* Class = "IBUILabel"; text = "Created on:"; ObjectID = "Pw5-96-MAj"; */
+"Pw5-96-MAj.text" = "创建于：";
+
+/* Class = "IBUITextField"; placeholder = "Enter Category Here"; ObjectID = "cDh-p1-bqb"; */
+"cDh-p1-bqb.placeholder" = "在此处输入类别";
+
+/* Class = "IBUILabel"; text = "Description:"; ObjectID = "gjE-bU-5Pg"; */
+"gjE-bU-5Pg.text" = "描述:";

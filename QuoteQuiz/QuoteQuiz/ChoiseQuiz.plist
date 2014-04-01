@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Quote</key>
+		<string>&quot;Be kind whenever possible. It is always possible.&quot;</string>
+		<key>Answer A</key>
+		<string>Dalai Lama</string>
+		<key>Answer B</key>
+		<string>Pouh</string>
+		<key>Answer C</key>
+		<string>Eleanor Roosevelt</string>
+		<key>Author</key>
+		<string>Dalai Lama</string>
+	</dict>
+	<dict>
+		<key>Quote</key>
+		<string>&quot;Always do your best. What you plant now, you will harvest later.&quot;</string>
+		<key>Answer A</key>
+		<string>Og Mandino</string>
+		<key>Answer B</key>
+		<string>Albert Einstein</string>
+		<key>Answer C</key>
+		<string>Thomas Jefferson</string>
+		<key>Author</key>
+		<string>Og Mandino</string>
+	</dict>
+	<dict>
+		<key>Quote</key>
+		<string>&quot;Believe in yourself! Have faith in your abilities! Without a humble but reasonable confidence in your own powers you cannot be successful or happy.&quot;</string>
+		<key>Answer A</key>
+		<string>Walt Disney</string>
+		<key>Answer B</key>
+		<string>Eleanor Roosevelt</string>
+		<key>Answer C</key>
+		<string>Norman Vincent Peale</string>
+		<key>Author</key>
+		<string>Norman Vincent Peale</string>
+	</dict>
+	<dict>
+		<key>Quote</key>
+		<string>&quot;If you&apos;re going through hell, keep going.&quot;</string>
+		<key>Answer A</key>
+		<string>Thomas Jefferson</string>
+		<key>Answer B</key>
+		<string>Winston Churchill</string>
+		<key>Answer C</key>
+		<string>Albert Einstein</string>
+		<key>Author</key>
+		<string>Winston Churchill</string>
+	</dict>
+	<dict>
+		<key>Quote</key>
+		<string>&quot;The will to win, the desire to succeed, the urge to reach your full potential... these are the keys that will unlock the door to personal excellence.&quot;</string>
+		<key>Answer A</key>
+		<string>Benjamin Franklin</string>
+		<key>Answer B</key>
+		<string>Walt Disney</string>
+		<key>Answer C</key>
+		<string>Confucius</string>
+		<key>Author</key>
+		<string>Confucius</string>
+	</dict>
+</array>
+</plist>

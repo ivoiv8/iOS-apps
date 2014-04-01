@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<dict>
+			<key>icon</key>
+			<string>serv_icon_1.png</string>
+			<key>label</key>
+			<string>House Cleaning Islington</string>
+			<key>discount</key>
+			<string>discount.png</string>
+		</dict>
+		<dict>
+			<key>icon</key>
+			<string>serv_icon_2.png</string>
+			<key>label</key>
+			<string>Domestic Cleaners Islington</string>
+			<key>discount</key>
+			<string>nil</string>
+		</dict>
+		<dict>
+			<key>icon</key>
+			<string>serv_icon_3.png</string>
+			<key>label</key>
+			<string>Deep Cleaning Islington</string>
+			<key>discount</key>
+			<string>nil</string>
+		</dict>
+		<dict>
+			<key>icon</key>
+			<string>serv_icon_4.png</string>
+			<key>label</key>
+			<string>End of Tenancy Cleaning Islington</string>
+			<key>discount</key>
+			<string>nil</string>
+		</dict>
+		<dict>
+			<key>icon</key>
+			<string>serv_icon_5.png</string>
+			<key>label</key>
+			<string>One-off Spring Cleaning Islington</string>
+			<key>discount</key>
+			<string>discount.png</string>
+		</dict>
+		<dict>
+			<key>icon</key>
+			<string>serv_icon_1.png</string>
+			<key>label</key>
+			<string>Overnight End of Tenancy Cleaning Islington</string>
+			<key>discount</key>
+			<string>nil</string>
+		</dict>
+		<dict>
+			<key>icon</key>
+			<string>serv_icon_2.png</string>
+			<key>label</key>
+			<string>Dog Walking Islington</string>
+			<key>discount</key>
+			<string>discount.png</string>
+		</dict>
+		<dict>
+			<key>icon</key>
+			<string>serv_icon_3.png</string>
+			<key>label</key>
+			<string>Pet Sitting Islington</string>
+			<key>discount</key>
+			<string>nil</string>
+		</dict>
+		<dict>
+			<key>icon</key>
+			<string>serv_icon_4.png</string>
+			<key>label</key>
+			<string>Carpet Cleaning Islington</string>
+			<key>discount</key>
+			<string>nil</string>
+		</dict>
+		<dict>
+			<key>icon</key>
+			<string>serv_icon_5.png</string>
+			<key>label</key>
+			<string>Upholstery Cleaning Islington</string>
+			<key>discount</key>
+			<string>discount.png</string>
+		</dict>
+		<dict>
+			<key>icon</key>
+			<string>serv_icon_1.png</string>
+			<key>label</key>
+			<string>Dry Cleaning Islington</string>
+			<key>discount</key>
+			<string>nil</string>
+		</dict>
+		<dict>
+			<key>icon</key>
+			<string>serv_icon_2.png</string>
+			<key>label</key>
+			<string>Oven Cleaning Islington</string>
+			<key>discount</key>
+			<string>discount.png</string>
+		</dict>
+		<dict>
+			<key>icon</key>
+			<string>serv_icon_3.png</string>
+			<key>label</key>
+			<string>Rubbish Clearance Islington</string>
+			<key>discount</key>
+			<string>nil</string>
+		</dict>
+	</array>
+</array>
+</plist>
